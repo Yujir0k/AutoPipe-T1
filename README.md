@@ -19,8 +19,10 @@
 - [Скачать презентацию проекта](docs/hackathon/t1-moscow-2025/autopipe-t1-self-deploy-presentation.pptx)
 
 <p align="center">
-  <video src="docs/hackathon/t1-moscow-2025/autopipe-t1-demo.mp4" controls width="800"></video>
+  <img src="docs/hackathon/t1-moscow-2025/autopipe-t1-demo-preview.gif" alt="Демо-видео AutoPipe-T1" width="800"/>
 </p>
+
+- [Скачать полное демо-видео в MP4](docs/hackathon/t1-moscow-2025/autopipe-t1-demo.mp4)
 
 <details>
 <summary><strong>Листать презентацию прямо в README</strong></summary>
@@ -673,11 +675,6 @@ kubectl get pods -n production
 ## 📄 Лицензия
 
 MIT License
-
-## 👥 Авторы
-
-- **Команда 43** - T1 Challenge 2025
-- Email: danik160204@gmail.com
 
 ## 📎 Ссылки
 
