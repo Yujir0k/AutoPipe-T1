@@ -9,7 +9,7 @@
 
 ## 🏆 Хакатон T1 Москва
 
-**AutoPipe-T1** — решение команды **R² negative** для хакатона **T1. Москва** в задаче **«Self-Deploy: CI/CD без DevOps»**. Команда заняла **4 место**, а проект сфокусирован на автоматизации генерации и запуска CI/CD pipeline без ручной DevOps-настройки.
+**AutoPipe-T1** — наше решение для хакатона **T1. Москва** в задаче **«Self-Deploy: CI/CD без DevOps»**. Наша команда **R² negative** заняла **4 место**, а сам проект сфокусирован на автоматизации генерации и запуска CI/CD pipeline без ручной DevOps-настройки.
 
 - [Сертификат финалиста](docs/hackathon/t1-moscow-2025/autopipe-t1-certificate.pdf)
 - [Скачать презентацию проекта](docs/hackathon/t1-moscow-2025/autopipe-t1-self-deploy-presentation.pptx)
