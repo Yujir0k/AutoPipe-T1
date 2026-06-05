@@ -1,11 +1,47 @@
-# AutoPipe - Автоматическая генерация CI/CD пайплайнов
+# AutoPipe-T1 - Автоматическая генерация CI/CD пайплайнов
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-**AutoPipe** — высокоточный CLI-инструмент для автоматической генерации CI/CD пайплайнов. Анализирует Git-репозитории и создает оптимизированные конфигурации `.gitlab-ci.yml` с интеграцией SonarQube, Nexus и Kubernetes.
+**AutoPipe-T1** — высокоточный CLI-инструмент для автоматической генерации CI/CD пайплайнов. Анализирует Git-репозитории и создает оптимизированные конфигурации `.gitlab-ci.yml` с интеграцией SonarQube, Nexus и Kubernetes.
 
 ---
+
+## 🏆 Хакатон T1 Москва
+
+**AutoPipe-T1** — решение команды **R² negative** для хакатона **T1. Москва** в задаче **«Self-Deploy: CI/CD без DevOps»**. Команда заняла **4 место**, а проект сфокусирован на автоматизации генерации и запуска CI/CD pipeline без ручной DevOps-настройки.
+
+- [Сертификат финалиста](docs/hackathon/t1-moscow-2025/autopipe-t1-certificate.pdf)
+- [Скачать презентацию проекта](docs/hackathon/t1-moscow-2025/autopipe-t1-self-deploy-presentation.pptx)
+- [Смотреть демо-видео](docs/hackathon/t1-moscow-2025/autopipe-t1-demo.mp4)
+
+<details>
+<summary><strong>Листать презентацию прямо в README</strong></summary>
+
+<p align="center">
+  <img src="docs/hackathon/t1-moscow-2025/slides/slide-01.png" alt="AutoPipe-T1 presentation slide 01" width="800"/>
+
+  <img src="docs/hackathon/t1-moscow-2025/slides/slide-02.png" alt="AutoPipe-T1 presentation slide 02" width="800"/>
+
+  <img src="docs/hackathon/t1-moscow-2025/slides/slide-03.png" alt="AutoPipe-T1 presentation slide 03" width="800"/>
+
+  <img src="docs/hackathon/t1-moscow-2025/slides/slide-04.png" alt="AutoPipe-T1 presentation slide 04" width="800"/>
+
+  <img src="docs/hackathon/t1-moscow-2025/slides/slide-05.png" alt="AutoPipe-T1 presentation slide 05" width="800"/>
+
+  <img src="docs/hackathon/t1-moscow-2025/slides/slide-06.png" alt="AutoPipe-T1 presentation slide 06" width="800"/>
+
+  <img src="docs/hackathon/t1-moscow-2025/slides/slide-07.png" alt="AutoPipe-T1 presentation slide 07" width="800"/>
+
+  <img src="docs/hackathon/t1-moscow-2025/slides/slide-08.png" alt="AutoPipe-T1 presentation slide 08" width="800"/>
+
+  <img src="docs/hackathon/t1-moscow-2025/slides/slide-09.png" alt="AutoPipe-T1 presentation slide 09" width="800"/>
+
+  <img src="docs/hackathon/t1-moscow-2025/slides/slide-10.png" alt="AutoPipe-T1 presentation slide 10" width="800"/>
+
+</p>
+
+</details>
 
 ## Содержание
 
